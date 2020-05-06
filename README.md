@@ -1,7 +1,10 @@
 # Polyp-Segmentation-using-UNET-in-TensorFlow-2.0
 
 Implementing polyp segmentation using the U-Net and CVC-612 dataset. <br/>
-Blog Post: https://idiotdeveloper.com/polyp-segmentation-using-unet-in-tensorflow-2/ <br/>
+Blog Post: https://idiotdeveloper.com/polyp-segmentation-using-unet-in-tensorflow-2/
+<br/>
+<br/>
+The dataset CVC-612 is not complete. Download it from the <a href="#"> Here </a>
 
 ## Results
 The images given below are in the sequence: (1) Input Image, (2) Ground Truth, (3) Predicted Mask <br/><br/>
