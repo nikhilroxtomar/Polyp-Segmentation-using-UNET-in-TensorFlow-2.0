@@ -2,6 +2,7 @@
 
 Implementing polyp segmentation using the U-Net and CVC-612 dataset. <br/>
 Blog Post: https://idiotdeveloper.com/polyp-segmentation-using-unet-in-tensorflow-2/
+Video Explaination: [https://youtu.be/SOkXeGLa2qo](https://youtu.be/SOkXeGLa2qo)
 <br/>
 <br/>
 The dataset CVC-ClinicDB (CVC-612) is not complete. Download it from the <a href="https://polyp.grand-challenge.org/CVCClinicDB/"> Here </a> 
